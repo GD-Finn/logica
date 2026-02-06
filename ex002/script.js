@@ -1,7 +1,7 @@
 var nota1 = 7.0
 var nota2 = 6.0
 var nota3 = 8.0
-var nota4 = 5.5
+var nota4 = 7.5
 var situação = '';
 
 var media = (nota1 + nota2 + nota3 + nota4) / 4;
